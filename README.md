@@ -5,4 +5,4 @@
 ### Tabel of Contents 
 
 - [run differential](https://github.com/Btlyons1/baseball-stats/tree/master/run-diff)
-- [runs per season](https://github.com/Btlyons1/baseball-stats/tree/master/runs-per-season)
+- [wins per season](https://github.com/Btlyons1/baseball-stats/tree/master/wins-per-season)
