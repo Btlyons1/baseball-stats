@@ -24,9 +24,6 @@ input_df = pd.read_table(fp+"GL2017.TXT", sep=",", header=None)
 import warnings
 warnings.filterwarnings(action="ignore")
 
-
-
-
 # Method to rename columns of an input dataframe (for readability)
 # Input type: dataframe
 # Output type: dataframe
@@ -219,3 +216,6 @@ plt.title("MLB 2016 season")
 print(np.max(test_run_diff))
 # np.argmax(
 # df_proc[]
+
+
+
