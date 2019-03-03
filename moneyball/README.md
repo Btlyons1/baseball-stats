@@ -1,0 +1,1 @@
+[Linear Regression: Moneyball pt 1](https://towardsdatascience.com/linear-regression-moneyball-part-1-b93b3b9f5b53)
